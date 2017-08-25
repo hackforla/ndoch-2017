@@ -10,7 +10,7 @@ Goal for participants: *Tell a story about Los Angeles using data.*
 * 9/23/17 - Kickoff Event
 * TBD Oct./Nov. Date - SCDC Public Launch Event for story pitches.
 
-** 9/23/17 Kickoff Event
+## 9/23/17 Kickoff Event
 
 * Half-day event: 12pm-6pm.
 * Close with a networking happy hour.
@@ -18,7 +18,7 @@ Goal for participants: *Tell a story about Los Angeles using data.*
 * Single track, maybe alternate with technical workshops.
 * Target: 100 attendees.
 
-** Oct./Nov. Event
+## Oct./Nov. Event
 
 * SCDC public launch.
 * Datathon/Storython story pitches (accept a range in completeness).
