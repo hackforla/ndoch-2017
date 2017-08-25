@@ -7,9 +7,9 @@ Goal for participants: *Tell a story about Los Angeles using data.*
 
 "Fall into Data"? :)
 
-* 9/23/17 - Kickoff Event
-* Weekly Civic Hack Nights
-* TBD Oct./Nov. Date - SCDC Public Launch Event for story pitches.
+* 9/23/17 - Kickoff Event introduces people to civic data sources, storytelling, and analyzing data.
+* Weekly Civic Hack Nights - participants can have a space to work, bounce around ideas, and get technical help.
+* TBD Oct./Nov. Date - SCDC Public Launch Event - participants present their story pitches, and stories get published.
 
 ## 9/23/17 Kickoff Event
 
