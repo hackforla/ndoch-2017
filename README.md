@@ -15,8 +15,9 @@ Goal for participants: *Tell a story about Los Angeles using data.*
 
 * Half-day event: 12pm-6pm.
 * Close with a networking happy hour.
-* Speakers who have created stories with data to talk about (1) their story and (2) the tech that went into creating the story.
-* Single track - data story case studies, technical workshops.
+* Single track
+  * "Case Study" speakers - talk about (1) their story and (2) the tech that went into creating the story.
+  * "Technical" speakers - talk about how to map data, how to visualize data, how to use Python/R to analyze data.
 * Work on project at Civic Hack Nights, can get technical assistance there.
 * Target: 100 attendees.
 
