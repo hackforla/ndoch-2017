@@ -5,13 +5,16 @@ This repo is for planning Hack For LA's 2017 National Day of Civic Hacking event
 
 Goal for participants: *Tell a story about Los Angeles using data.*
 
-"Fall into Data"? :)
+* 9/23/17 - National Day will be the kickoff event.  The goal will be to introduce people to civic data sources, storytelling, and analyzing data in order to get participants thinking about how they would tell a story using data.
+* Weekly Civic Hack Nights - At National Day, we'll introduce the weekly hack nights as a space to work, bounce around ideas, and get technical help.
+* TBD Oct./Nov. Date - Events culminate in the SCDC Public Launch Event, where participants get to present the story pitches they've been working on.
 
-* 9/23/17 - Kickoff Event introduces people to civic data sources, storytelling, and analyzing data.
-* Weekly Civic Hack Nights - participants can have a space to work, bounce around ideas, and get technical help.
-* TBD Oct./Nov. Date - SCDC Public Launch Event - participants present their story pitches, and stories get published.
+The event's theme is **Education**.  Prep to do:
 
-The event will be structured around a theme with specific questions posed to attendees to answer or think about.  We'll need to gather experts and compile references/guides about the data.  CCF would like to introduce the idea of being part of a larger community around civic data.  The stories can involve data visualizations.
+* Specific questions posed to attendees to answer or think about.
+* Compile references/guides about the data.
+
+CCF would like to introduce the idea of being part of a larger community around civic data.  The stories can involve data visualizations.
 
 Planning will involve weekly 30-minute calls up until the event.  Organizers will be split up to focus on production and programming.
 
